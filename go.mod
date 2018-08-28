@@ -1,1 +1,1 @@
-module github.com/toorop/calc
+module github.com/toorop/calc/v2
